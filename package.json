@@ -1,6 +1,6 @@
 {
   "name": "aws-export-format",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "pub": "npm version patch & npm publish"
