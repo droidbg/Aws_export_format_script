@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: index.js
+  checksum: ad9a6de7757c8c5e3411289feb89f04c0ef075b1f67df0d6d74ca58a1de05885
+- filename: Readme.md
+  checksum: 4224d7980cf84387e6e1158f77465df6a1aa8636f25a6027c8a546b61ccfa692
+version: ""

@@ -1,0 +1,28 @@
+{
+  "name": "aws-export-format",
+  "version": "1.0.3",
+  "main": "index.js",
+  "scripts": {
+    "pub": "npm version patch & npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droidbg/Aws_export_format_script.git"
+  },
+  "keywords": [
+    "aws",
+    "npm",
+    "aws export",
+    "npx",
+    "export AWS_ACCESS_KEY_ID",
+    "export AWS_SECRET_ACCESS_KEY",
+    "export AWS_DEFAULT_REGION",
+    "export AWS_SESSION_TOKEN"
+  ],
+  "author": "Binni G.",
+  "license": "MIT",
+  "description": "This script will take json and will return export access token commands for AWS CLI",
+  "bin": {
+    "aws-export-format": "index.js"
+  }
+}
